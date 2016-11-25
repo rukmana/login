@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#db0284</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="blue">#17c8db</color>
+    <color name="black">#000000</color>
+    <color name="gray">#38383838</color>
+    <color name="green">#06b400</color>
+    <color name="colordashboard">#2196f3</color>
+    <color name="colorcredit">#009688</color>
+    <color name="colorcategories1">#f44336</color>
+    <color name="colorcategories2">#4caf50</color>
+    <color name="col_db_account">#580058</color>
+    <color name="col_db_income">#4c983b</color>
+    <color name="col_db_expenses">#f44336</color>
+    <color name="col_db_credit">#ff8400</color>
+    <color name="col_db_transfer">#9c2282</color>
+    <color name="colorblue">#0265B0</color>
+    <color name="orangish">#EB6111</color>
+    <color name="greenish">#00D9A3</color>
+    <color name="skyish">#65C5F0</color>
+    <color name="blue_background">#1976D2</color>
+    <color name="teal_background">#00796B</color>
+    <color name="orange_background">#F57C00</color>
+    <color name="red_background">#D32F2F</color>
+    <color name="purple_background">#7B1FA2</color>
+
+
+
+ </resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_forgot_password">Lupa password?</string>
+    <string name="btn_link_to_register">Bukan anggota, daftar di sini!</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="text_hint_email">Email</string>
+    <string name="text_send_register">Register</string>
+    <string name="register">Register</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_back">Login</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ini dasboard</string>
+    <string name="profil1">Nana Rukmana</string>
+    <string name="email">nanark92@gmail.com</string>
+    <string name="synchronize">synchronize</string>
+    <string name="transaction">transaction</string>
+    <string name="saya">Nana Rukmana</string>
+    <string name="Balance">Balance</string>
+    <string name="hasil">00000</string>
+</resources>
